@@ -1,0 +1,62 @@
+/* ==UserStyle==
+@name			Udacity Dark
+@author			Derek Whatley
+@version		1.0
+==/UserStyle== */
+
+@-moz-document domain("classroom.udacity.com"), url-prefix("classroom.udacity.com")
+{
+	/* Background Colors */
+	
+	
+	  html
+	  {
+	    background: rgb(28, 38, 47) !Important;
+	  }
+	
+	  ._main--content-container--ILkoI
+	  {
+	    color: #fff;
+	    background: #333;
+	  }
+	  
+	    ._main--footer-container--3vC-_
+	  {
+	    color: #fff;
+	    background: #333;
+	  }
+	
+	  .small-card--footer--2vCDq, .ace_content
+	  {
+	    background: #444;
+	    border-top: 1px solid #555;
+	  }
+	
+	  .vds-button--secondary {
+	    color: #fff;
+	    background: #333;
+	    border: 1px solid #000;
+	  }
+	  
+	  .index--instructor-notes-container--24U8Y, .index--instructor-notes-wide--6JxNO, .index--instructor-notes-container--24U8Y {
+	    color: #fff;
+	    background: #333;
+	  }
+	 
+	 .index--container-wide--2OK8C .index--instructor-notes-container--24U8Y {
+	    color: #fff;
+	    background: #333;
+	 }
+	  
+	  h3#errata {
+	    color: #fff;
+	  }
+	
+	  .ureact-button--secondary--2oU3S,
+	.result-modal--body--15QMq,
+	.index--header--1mrDQ,
+	.modal--header--31IeI
+	  {
+	    background: #2e3d49 !Important;
+	  }
+}
